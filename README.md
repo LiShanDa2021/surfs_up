@@ -10,11 +10,11 @@ Overview of the analysis: Explain the purpose of this analysis.
 
 Here are the summary statistics for the June temperatures.
 
-![june]()
+![june](https://github.com/LiShanDa2021/surfs_up/blob/main/june_temps.png?raw=true)
 
 And here are the summary statistics for the December temperatures.
 
-![dec]()
+![dec](https://github.com/LiShanDa2021/surfs_up/blob/main/dec_temps.png?raw=true)
 
 
 
